@@ -116,14 +116,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jatim Timbangan.exe" size="2211328">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jatim Timbangan.exe" size="2211840">
       <assemblyIdentity name="Jatim Timbangan" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>3VtFQQnpUH4olc4aZwTlc3/slRA=</dsig:DigestValue>
+        <dsig:DigestValue>+UvU+XhjfgG00w6X6MWRm5LQA2c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -187,13 +187,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Jatim Timbangan.exe.config" size="3178">
+  <file name="Jatim Timbangan.exe.config" size="3217">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>vUfbIo5rgGKCGjEob74XJ8xsIh0=</dsig:DigestValue>
+      <dsig:DigestValue>OhYniTbMNgRLMYV4ABkSHUrJkSA=</dsig:DigestValue>
     </hash>
   </file>
   <file name="logo_jpj.ico" size="15086">
