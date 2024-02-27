@@ -123,7 +123,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>g0XefYUVUnV5LP8NGL1i0hqkxXo=</dsig:DigestValue>
+        <dsig:DigestValue>V/Ic/OgaQ6I/IF59QkAx1JR/ikA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -187,13 +187,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Jatim Timbangan.exe.config" size="3217">
+  <file name="Jatim Timbangan.exe.config" size="3221">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>OhYniTbMNgRLMYV4ABkSHUrJkSA=</dsig:DigestValue>
+      <dsig:DigestValue>J793iSuWgNUAcJvOe8gJQmM8HAs=</dsig:DigestValue>
     </hash>
   </file>
   <file name="logo_jpj.ico" size="15086">
