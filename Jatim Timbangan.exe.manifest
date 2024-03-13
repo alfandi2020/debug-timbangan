@@ -123,7 +123,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>FUVVyj7QyH5xw50Vs+H2fmeRCHY=</dsig:DigestValue>
+        <dsig:DigestValue>q/DeTS5um0BaBo31RU99Vy2uXqU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -193,7 +193,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>RGHhrap0yDOOkkLpvBVl6FoEIas=</dsig:DigestValue>
+      <dsig:DigestValue>PVL4TY9HrbJbTbuJmIr/WU/bt6U=</dsig:DigestValue>
     </hash>
   </file>
   <file name="logo_jpj.ico" size="15086">
