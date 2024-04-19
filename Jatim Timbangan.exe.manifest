@@ -116,14 +116,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jatim Timbangan.exe" size="2254848">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jatim Timbangan.exe" size="2255360">
       <assemblyIdentity name="Jatim Timbangan" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>6yqBAxKJ86xg8reJZlV0VoEkJqo=</dsig:DigestValue>
+        <dsig:DigestValue>Ec5lzrlHzW+F6ND/FvlZfALuR6M=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
