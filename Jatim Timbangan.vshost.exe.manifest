@@ -123,7 +123,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>tHjd3mP8bF343udNO2SVYGtUViE=</dsig:DigestValue>
+        <dsig:DigestValue>J/I7SGAJqyAwEcHdItRqnZ/7/Ek=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -171,7 +171,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>iLOgSqV31EtI+5+JrFej8Z3AlrI=</dsig:DigestValue>
+        <dsig:DigestValue>VrIf3LX+eI5SpADZ7zorktXJg5Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -183,7 +183,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>giBdiBnu+NgEyi1+dn4vJVP/Tzc=</dsig:DigestValue>
+        <dsig:DigestValue>iYa5w/ZzHBkxEosqRW0/0J/tYxQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -457,7 +457,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>RGHhrap0yDOOkkLpvBVl6FoEIas=</dsig:DigestValue>
+      <dsig:DigestValue>PVL4TY9HrbJbTbuJmIr/WU/bt6U=</dsig:DigestValue>
     </hash>
   </file>
   <file name="logo_jpj.ico" size="15086">
