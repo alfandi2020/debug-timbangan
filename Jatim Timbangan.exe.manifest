@@ -123,7 +123,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>1FQ6pu85Iqx/sd/M76wFKzUsee4=</dsig:DigestValue>
+        <dsig:DigestValue>k278JjN5ucjL+egvtf2Z0a0h6Wc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -171,7 +171,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>QRLrYIR2TAip7uLysXxthmq8vis=</dsig:DigestValue>
+        <dsig:DigestValue>3WkOgmxBJ1JczPI7+z+ZJgivcjY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -183,7 +183,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>VMUm5hHkXS4/3VOlFnJerF0Gguc=</dsig:DigestValue>
+        <dsig:DigestValue>nTFqVvRKZV+hckILd1pd71g5j4o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -451,13 +451,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Jatim Timbangan.exe.config" size="3214">
+  <file name="Jatim Timbangan.exe.config" size="3211">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>kV0i2ViuJJzgRYFn1xdypVnrkIM=</dsig:DigestValue>
+      <dsig:DigestValue>RGHhrap0yDOOkkLpvBVl6FoEIas=</dsig:DigestValue>
     </hash>
   </file>
   <file name="logo_jpj.ico" size="15086">
